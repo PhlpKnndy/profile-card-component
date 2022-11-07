@@ -28,9 +28,9 @@ The challenge is to build out this Profile Card Component and get it looking as 
 
 ### Links
 
-- **Solution URL -** [Frontend Mentor Solution](#)
+- **Solution URL -** [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/profile-card-component-jTPg3ECGT5)
 
-- **Live Site URL -** [Live Site Preview (Vercel)](#)
+- **Live Site URL -** [Live Site Preview (Vercel)](https://profile-card-component-phlpknndy.vercel.app)
 
 ## My Process
 
